@@ -25,4 +25,4 @@ To yell at your squadmates instead of nothingness, you can use this script to pr
 Sure no secrets here! Assuming you're reading this on GitHub, you should have access it to it!
 
 ## Am I going to get banned for using a "script"?
-I highly doubt it... all this really does is press the default talk command. We're not executing commands at a ridiculous rate which can trigger anti-cheat software. With that said, this is using the MIT license and what you do/not do with this code is on you.
+I highly doubt it... all this really does is press the default talk command. We're not *really* doing anything crazy like executing commands at a ridiculous rate or tapping in RAM which would trigger anti-cheat software. With that said, what you do/not do with this code is on you.
