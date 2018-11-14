@@ -1,3 +1,5 @@
+# AS OF PATCH v6.30 THIS SHOULD NO LONGER BE AN ISSUE.
+
 # FortnitePTTWorkaround
 Workaround for Fortnite Push-To-Talk (PTT) key not working suddenly (usually when dead).
 
