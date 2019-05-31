@@ -1,4 +1,4 @@
-# AS OF PATCH v6.30 THIS SHOULD NO LONGER BE AN ISSUE.
+# AS OF PATCH v6.30 THIS SHOULD NO LONGER BE AN ISSUE. However, you can still use this to toggle your push to talk key in between Fortnite and another chat application such as Discord.
 
 # FortnitePTTWorkaround
 Workaround for Fortnite Push-To-Talk (PTT) key not working suddenly (usually when dead).
